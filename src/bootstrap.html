@@ -10,13 +10,19 @@
     <title>Moment 1</title>
 </head>
 <body>
-    <nav id="navigation">
-        <ul>
-            <li><a href="index.html">Startsida</a></li>
-            <li><a href="bootstrap.html">Bootstrap</a></li>
-            <li><a href="tailwind.html">Tailwind</a></li>
-        </ul>
-    </nav>
+  
+  <ul class="nav nav-pills" id="navigation">
+    <li class="nav-item">
+      <a class="nav-link active" aria-current="page" href="index.html">Startsida</a>
+    </li>
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button" aria-expanded="false">Välj ramverk</a>
+      <ul class="dropdown-menu">
+        <li><a class="dropdown-item" href="bootstrap.html">Bootstrap</a></li>
+        <li><a class="dropdown-item" href="milligram.html">Milligram</a></li>
+      </ul>
+    </li>
+  </ul>
 
     <table id="tableBoot"  class="table table-light table-hover table-striped"  >
         <thead class="table-dark">
@@ -47,6 +53,12 @@
                 <td>10</td>
             </tr>
         </tbody>
+        <tfoot>
+          <tr>
+            <td>Totalt: 15</td>
+            <td>Totalt: 40</td>
+          </tr>
+        </tfoot>
     </table>
 
 

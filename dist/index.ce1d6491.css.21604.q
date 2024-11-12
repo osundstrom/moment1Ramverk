@@ -1,11 +1,11 @@
 body {
-  background-color: #fff;
+  background-color: #000;
 }
 
 #navigation {
   justify-content: center;
   margin-top: 5vh;
-  margin-left: 5vw;
+  margin-left: 0;
   position: relative;
 }
 
@@ -20,7 +20,7 @@ body {
 
 #navigation a {
   text-transform: none;
-  color: #000;
+  color: #fff;
   text-indent: none;
   border-radius: 10px;
   padding: 4%;
@@ -29,7 +29,7 @@ body {
 }
 
 #navigation a:hover {
-  border-bottom: 5px solid #000;
+  border-bottom: 5px solid #fff;
 }
 
 #allInfo {
@@ -42,8 +42,8 @@ body {
 
 #allInfo #ramOne {
   text-align: center;
-  color: #000;
-  border: 2px dashed #000;
+  background-color: bisque;
+  border: 1px dashed #f08080;
   border-radius: 2%;
   width: 40vw;
   margin-right: 1vw;
@@ -51,8 +51,8 @@ body {
 
 #allInfo #ramTwo {
   text-align: center;
-  color: #000;
-  border: 2px dashed #000;
+  background-color: bisque;
+  border: 2px dashed #e0ffff;
   border-radius: 2%;
   width: 40vw;
   margin-left: 1vw;

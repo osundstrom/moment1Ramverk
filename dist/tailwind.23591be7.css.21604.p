@@ -1,14 +1,11 @@
 body {
-  background-color: #fff;
-  width: 100vw;
-  height: 100vh;
-  position: relative;
+  background-color: #ffebcd;
 }
 
 #navigation {
   justify-content: center;
   margin-top: 5vh;
-  margin-left: 5vw;
+  margin-left: 0;
   position: relative;
 }
 
@@ -31,19 +28,8 @@ body {
   text-decoration: none;
 }
 
-#navigation button:hover {
-  color: #fff;
-  background-color: purple;
+#navigation a:hover {
+  border: 2px solid #000;
+  text-decoration: underline;
 }
-
-#tableFound {
-  text-align: center;
-  width: 50vw;
-  margin-left: 25vw;
-}
-
-form {
-  width: 50vw;
-  margin-left: 25vw;
-}
-/*# sourceMappingURL=tailwind.dcce686a.css.map */
+/*# sourceMappingURL=tailwind.23591be7.css.map */

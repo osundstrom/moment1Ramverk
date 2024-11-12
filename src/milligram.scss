@@ -1,16 +1,17 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
 
 body{
-    background-color: blanchedalmond;
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
 }
 
 #navigation {
-    margin-left: 0vw;
+    margin-left: 5vw;
     margin-top: 5vh;
     position: relative;
     justify-content: center;
+    
 
     li{
         list-style: none;
@@ -31,8 +32,25 @@ body{
         text-indent: none;
     }
 
-    a:hover{
-        text-decoration: underline;
-        border: 2px solid black;
+    button:hover {
+        background-color: purple;
+        color: white;
     }
+
+    
 }
+
+#tableFound{
+    width: 50vw;
+    margin-left: 25vw;
+    text-align: center;
+}
+
+form {
+    width: 50vw;
+    margin-left: 25vw;
+}
+
+
+
+
