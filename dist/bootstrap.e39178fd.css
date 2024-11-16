@@ -3,21 +3,4 @@ body {
   width: 100vw;
   height: 100vh;
 }
-
-#navigation {
-  margin-top: 5vh;
-  margin-left: 5vw;
-  position: relative;
-}
-
-#tableBoot {
-  text-align: center;
-  width: 50vw;
-  margin-left: 25vw;
-}
-
-#formBoot {
-  width: 50vw;
-  margin-left: 25vw;
-}
 /*# sourceMappingURL=bootstrap.e39178fd.css.map */
