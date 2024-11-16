@@ -53,7 +53,7 @@
 33C:\Users\Admin\moment1Ramverk\src133759127675787032 1
 102C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133758082014347524 0
 71C:\Users\Admin\moment1Ramverk\node_modules\semver\internal\constants.js133758082013237336 0
-48C:\Users\Admin\moment1Ramverk\src\bootstrap.html133762611115506683 0
+48C:\Users\Admin\moment1Ramverk\src\bootstrap.html133762612818619915 0
 80C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\dataset.js133758082022213898 0
 63C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\v8133758082018368238 1
 77C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\src\Transformation.js133758082019658462 0
