@@ -1,13 +1,12 @@
 3520
-61C:\Users\Admin\moment1Ramverk\node_modules\picomatch\index.js133758082011972112 0
-88C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\css-paged-media.js133758082021108710 0
-47C:\Users\Admin\moment1Ramverk\node_modules\@swc133759095857068961 1
-90C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\lib\dom-utils\getWindowScroll.js133758082018463255 0
-74C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lz4\lib\lz4.h133758082018078185 0
-86C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\filters.html133758106635656853 0
-71C:\Users\Admin\moment1Ramverk\node_modules\bulma\sass\elements\box.scss133759081003329887 0
-86C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\mediarecorder.js133758082025619497 0
-49C:\Users\Admin\moment1Ramverk\dist\milligram.html133762677587688557 0
+95C:\Users\Admin\moment1Ramverk\node_modules\@parcel\package-manager\test\fixtures\packages\peers133758082015632746 1
+82C:\Users\Admin\moment1Ramverk\node_modules\sass\node_modules\readdirp\package.json133758082012577219 0
+68C:\Users\Admin\moment1Ramverk\node_modules\semver\functions\parse.js133758082015047657 0
+69C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\src\_base.scss133758106637656947 0
+93C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133758082017483073 1
+77C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\offcanvas.js.map133758082021233719 0
+49C:\Users\Admin\moment1Ramverk\dist\bootstrap.html133762681586297220 0
+57C:\Users\Admin\moment1Ramverk\node_modules\semver\LICENSE133758082011201975 0
 83C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\dist\css\bootstrap.rtl.css.map133758082020773639 0
 74C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\regions\RE.js133758082026934718 0
 80C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\css-all.js133758082018413238 0
@@ -34,7 +33,7 @@
 60C:\Users\Admin\moment1Ramverk\node_modules\dotenv-expand\lib133758082012632237 1
 87C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\lib\utils\computeOffsets.d.ts133758082019818485 0
 67C:\Users\Admin\moment1Ramverk\node_modules\abortcontroller-polyfill133758082013797430 1
-34C:\Users\Admin\moment1Ramverk\dist133762677587703558 1
+34C:\Users\Admin\moment1Ramverk\dist133762681586317211 1
 60C:\Users\Admin\moment1Ramverk\node_modules\@msgpackr-extract133759095857073958 1
 86C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\link-icon-svg.js133758082025194422 0
 56C:\Users\Admin\moment1Ramverk\node_modules\utility-types133758082013857457 1
@@ -54,7 +53,7 @@
 33C:\Users\Admin\moment1Ramverk\src133759127675787032 1
 102C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mdb_copy.1133758082014347524 0
 71C:\Users\Admin\moment1Ramverk\node_modules\semver\internal\constants.js133758082013237336 0
-48C:\Users\Admin\moment1Ramverk\src\bootstrap.html133762675209408483 0
+48C:\Users\Admin\moment1Ramverk\src\bootstrap.html133762681538194109 0
 80C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\dataset.js133758082022213898 0
 63C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\v8133758082018368238 1
 77C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\src\Transformation.js133758082019658462 0
@@ -108,7 +107,7 @@
 82C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\img\macos-sierra-2.jpg133758106636381983 0
 74C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\regions\FR.js133758082023369112 0
 71C:\Users\Admin\moment1Ramverk\node_modules\milligram\dist\milligram.css133759095856528789 0
-48C:\Users\Admin\moment1Ramverk\src\milligram.html133762677536537930 0
+48C:\Users\Admin\moment1Ramverk\src\milligram.html133762680752082505 0
 62C:\Users\Admin\moment1Ramverk\node_modules\immutable\README.md133758082013607397 0
 76C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\lib\applyRuntimes.js133758082014282529 0
 47C:\Users\Admin\moment1Ramverk\node_modules\.bin133759094653534723 1
@@ -159,6 +158,9 @@
 64C:\Users\Admin\moment1Ramverk\node_modules\detect-libc\README.md133758082011917100 0
 95C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\dist\esm\dom-utils\getOffsetParent.js133758082021658801 0
 50C:\Users\Admin\moment1Ramverk\node_modules\@parcel133759095857073958 1
+61C:\Users\Admin\moment1Ramverk\node_modules\picomatch\index.js133758082011972112 0
+88C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\css-paged-media.js133758082021108710 0
+47C:\Users\Admin\moment1Ramverk\node_modules\@swc133759095857068961 1
 49C:\Users\Admin\moment1Ramverk\node_modules\base-x133758082012212164 1
 81C:\Users\Admin\moment1Ramverk\node_modules\@parcel\watcher-win32-x64\watcher.node133758082013357374 0
 88C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\offscreencanvas.js133758082026309611 0
@@ -573,11 +575,6 @@
 85C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\meters.html133758106635886912 0
 69C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\src\_bars.scss133758106637651956 0
 83C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lmdb\libraries\liblmdb133758082019408417 1
-95C:\Users\Admin\moment1Ramverk\node_modules\@parcel\package-manager\test\fixtures\packages\peers133758082015632746 1
-82C:\Users\Admin\moment1Ramverk\node_modules\sass\node_modules\readdirp\package.json133758082012577219 0
-68C:\Users\Admin\moment1Ramverk\node_modules\semver\functions\parse.js133758082015047657 0
-69C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\src\_base.scss133758106637656947 0
-57C:\Users\Admin\moment1Ramverk\node_modules\semver\LICENSE133758082011201975 0
 76C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\src\_breadcrumbs.scss133758106637666952 0
 77C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\scss\helpers\_ratio.scss133758082022353929 0
 99C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lmdb-data-v1\libraries\liblmdb\mtest.c133758082016662927 0
@@ -1077,6 +1074,9 @@
 88C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\calendars.html133758106635396816 0
 59C:\Users\Admin\moment1Ramverk\node_modules\dotenv\README.md133758082012497207 0
 89C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\comparison.html133758106635506834 0
+90C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\lib\dom-utils\getWindowScroll.js133758082018463255 0
+74C:\Users\Admin\moment1Ramverk\node_modules\lmdb\dependencies\lz4\lib\lz4.h133758082018078185 0
+86C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\filters.html133758106635656853 0
 89C:\Users\Admin\moment1Ramverk\node_modules\spectre.css\docs\experimentals\off-canvas.html133758106635956925 0
 105C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\lib\utils\getOppositeVariationPlacement.js.flow133758082020948701 0
 67C:\Users\Admin\moment1Ramverk\node_modules\semver\ranges\outside.js133758082014942631 0
@@ -2502,6 +2502,8 @@
 75C:\Users\Admin\moment1Ramverk\node_modules\bulma\sass\layout\container.scss133759081003474922 0
 73C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\dist\js\bootstrap.js133758082016092909 0
 97C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\mediacapture-fromelement.js133758082025609500 0
+71C:\Users\Admin\moment1Ramverk\node_modules\bulma\sass\elements\box.scss133759081003329887 0
+86C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\mediarecorder.js133758082025619497 0
 78C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\meter.js133758082025674519 0
 97C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\test\fixtures\common-targets\package.json133758082020238552 0
 78C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\mpeg4.js133758082025829527 0
@@ -2786,9 +2788,6 @@
 72C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\dropdown.js133758082016667926 0
 76C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\dropdown.js.map133758082021098705 0
 69C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\modal.js133758082016962981 0
-49C:\Users\Admin\moment1Ramverk\dist\bootstrap.html133762675744354956 0
-93C:\Users\Admin\moment1Ramverk\node_modules\@parcel\core\test\fixtures\local-plugin-config-pkg133758082017483073 1
-77C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\offcanvas.js.map133758082021233719 0
 73C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\scrollspy.js133758082017278034 0
 69C:\Users\Admin\moment1Ramverk\node_modules\@parcel\graph\src\types.js133758082014432537 0
 77C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\dist\scrollspy.js.map133758082021288742 0
@@ -3512,6 +3511,7 @@
 57C:\Users\Admin\moment1Ramverk\dist\index.ce1d6491.css.map133762675743324778 0
 65C:\Users\Admin\moment1Ramverk\dist\index.de158e3a.js.map.47640.14133759084762676532 0
 57C:\Users\Admin\moment1Ramverk\dist\milligram.899c006f.css133762675743279767 0
+49C:\Users\Admin\moment1Ramverk\dist\milligram.html133762681089953457 0
 61C:\Users\Admin\moment1Ramverk\dist\moment1Ramverk.3464ddca.js133758026988352403 0
 61C:\Users\Admin\moment1Ramverk\dist\moment1Ramverk.59712999.js133762675743489794 0
 74C:\Users\Admin\moment1Ramverk\dist\moment1Ramverk.59712999.js.map.47640.12133759084762676532 0
