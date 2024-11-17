@@ -3,17 +3,93 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- Google Fonts -->
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+
+<!-- CSS Reset -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+
+<!-- Milligram CSS -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.1/milligram.css">
+    
     <link rel="stylesheet" href="/tailwind.dcce686a.css">
+    
     <script src="/index.de158e3a.js"></script>
     <title>Moment 1</title>
 </head>
-<body>
+<body class="has-background-black has-text-white">
+
+
     <nav id="navigation">
         <ul>
-            <li><a href="/index.html">Startsida</a></li>
-            <li><a href="/bootstrap.html">Bootstrap</a></li>
-            <li><a href="/tailwind.html">Tailwind</a></li>
+            <li> <a href="/index.html"><button class="button button-outline">Startsida</button></a></li>
+            <li> <a href="/bootstrap.html"><button class="button button-outline">Bootstrap</button></a></li>
+            <li> <a href="/tailwind.html"><button class="button button-outline">Tailwind</button></a></li>
         </ul>
     </nav>
+
+    <table id="tableFound" class="table">
+        <thead>
+            <tr>
+                <th>1-5</th>
+                <th>6-10</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>1</td>
+                <td>6</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>7</td>
+            </tr>
+            <tr>
+                <td>3</td>
+                <td>8</td>
+            </tr>
+            <tr>
+                <td>4</td>
+                <td>9</td>
+            </tr>
+            <tr>
+                <td>5</td>
+                <td>10</td>
+            </tr>
+        </tbody>
+        <tfoot>
+            <tr>
+              <td>Totalt: 15</td>
+              <td>Totalt: 40</td>
+            </tr>
+          </tfoot>
+    </table>
+
+
+
+    <form>
+        <fieldset>
+          <label for="nameField">Name</label>
+          <input type="text" placeholder="CJ Patoilo" id="nameField">
+          <label for="ageRangeField">Age Range</label>
+          <select id="ageRangeField">
+            <option value="0-13">0-13</option>
+            <option value="14-17">14-17</option>
+            <option value="18-23">18-23</option>
+            <option value="24+">24+</option>
+          </select>
+          <label for="commentField">Comment</label>
+          <textarea placeholder="Hi CJ …" id="commentField"></textarea>
+          <div class="float-right">
+            <input type="checkbox" id="confirmField">
+            <label class="label-inline" for="confirmField">Send a copy to yourself</label>
+          </div>
+          <input class="button-primary" type="submit" value="Send">
+        </fieldset>
+      </form>
+    
+
+    
 <script src="/tailwind.c65e0651.js"></script></body>
 </html>

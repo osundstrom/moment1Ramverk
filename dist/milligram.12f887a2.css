@@ -1,0 +1,2 @@
+body{background-color:#fff;width:100vw;height:100vh;position:relative;overflow-x:hidden}#navigation{justify-content:center;margin-top:2vh;font-size:1em;position:relative}#navigation li{list-style:none;display:inline}#navigation button{min-width:10vw}#navigation a{text-transform:none;color:#000;border-radius:10px;font-weight:700;text-decoration:none}#navigation button:hover{color:#fff;background-color:purple}#navNames{display:none}@media (width>=40rem){#navNames{display:inline}}table caption{text-align:left;font-weight:900}
+/*# sourceMappingURL=milligram.12f887a2.css.map */

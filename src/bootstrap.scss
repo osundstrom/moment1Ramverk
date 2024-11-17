@@ -1,34 +1,11 @@
 body{
-    background-color: blanchedalmond;
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    
+overflow-x: hidden;
 }
 
-#navigation {
-    margin-left: 0vw;
-    margin-top: 5vh;
-    position: relative;
-    justify-content: center;
-
-    li{
-        list-style: none;
-        display: inline-block;
-        flex-direction: row;
-        position: relative;
-        width:fit-content;
-        margin-right: 2vw;
-    }
-
-    a{
-        padding: 8%;
-        text-decoration: none;
-        text-transform: none;
-        border-radius: 10px;
-        color: black;
-        font-weight: 700;
-        text-indent: none;
-    }
-
-    a:hover{
-        text-decoration: underline;
-        border: 2px solid black;
-    }
-}
+//------------------------------------------------------------------------//
+//------------------------------------------------------------------------//
+//------------------------------------------------------------------------//

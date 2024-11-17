@@ -3,30 +3,29 @@ body {
   width: 100vw;
   height: 100vh;
   position: relative;
+  overflow-x: hidden;
 }
 
 #navigation {
   justify-content: center;
-  margin-top: 5vh;
-  margin-left: 5vw;
+  margin-top: 2vh;
+  font-size: 1em;
   position: relative;
 }
 
 #navigation li {
-  flex-direction: row;
-  width: fit-content;
-  margin-right: 2vw;
   list-style: none;
-  display: inline-block;
-  position: relative;
+  display: inline;
+}
+
+#navigation button {
+  min-width: 10vw;
 }
 
 #navigation a {
   text-transform: none;
   color: #000;
-  text-indent: none;
   border-radius: 10px;
-  padding: 8%;
   font-weight: 700;
   text-decoration: none;
 }
@@ -36,14 +35,18 @@ body {
   background-color: purple;
 }
 
-#tableFound {
-  text-align: center;
-  width: 50vw;
-  margin-left: 25vw;
+#navNames {
+  display: none;
 }
 
-form {
-  width: 50vw;
-  margin-left: 25vw;
+@media (width >= 40rem) {
+  #navNames {
+    display: inline;
+  }
 }
-/*# sourceMappingURL=tailwind.dcce686a.css.map */
+
+table caption {
+  text-align: left;
+  font-weight: 900;
+}
+/*# sourceMappingURL=milligram.899c006f.css.map */

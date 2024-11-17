@@ -1,8 +1,11 @@
 body {
-  background-color: #fff;
+  background-color: #ffebcd;
 }
 
 #navigation {
+  justify-content: center;
+  margin-top: 5vh;
+  margin-left: 0;
   position: relative;
 }
 
@@ -20,13 +23,13 @@ body {
   color: #000;
   text-indent: none;
   border-radius: 10px;
-  padding: 4%;
-  font-size: 100%;
+  padding: 8%;
   font-weight: 700;
   text-decoration: none;
 }
 
 #navigation a:hover {
-  border-bottom: 3px solid #000;
+  border: 2px solid #000;
+  text-decoration: underline;
 }
-/*# sourceMappingURL=index.ce1d6491.css.map */
+/*# sourceMappingURL=tailwind.23591be7.css.map */
