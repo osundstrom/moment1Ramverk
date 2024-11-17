@@ -12,22 +12,18 @@ body{
     position: relative;
     justify-content: center;
     font-size: 1em;
+
     
 
     li{
         list-style: none;
-        display: inline-block
+        display: inline;
     }
 
-    #navNames{
-        display: none;
+    button {
+        min-width: 10vw;
     }
 
-    @media (min-width: 40.0rem) {
-        #navNames{
-            display:inline;
-        }
-    }
 
 
     a{
@@ -45,6 +41,20 @@ body{
 
     
 }
+
+#navNames{
+    display: none;
+}
+
+@media (min-width: 40.0rem) {
+    #navNames{
+        display: inline;
+    }
+}
+
+
+
+
 
 table{
     caption{

@@ -4,10 +4,8 @@ body{
 }
 
 #navigation {
-    margin-left: 5vw;
-    margin-top: 5vh;
     position: relative;
-    justify-content: center;
+    
 
     li{
         list-style: none;
@@ -26,38 +24,11 @@ body{
         color: black;
         font-weight: 700;
         text-indent: none;
+        font-size: 100%;
     }
 
     a:hover{
-        border-bottom: 5px solid black;
+        border-bottom: 3px solid black;
     }
 }
 
-#allInfo {
-    display: flex;
-    position: relative;
-    width: 80vw;
-    margin-left: 10vw;
-    margin-top: 5vh;
-    
-    #ramOne {
-        
-        border: 2px dashed black;
-        width: 40vw;
-        text-align: center;
-        margin-right: 1vw;
-        border-radius: 2%;
-        color: black;
-    }
-
-    #ramTwo {
-        
-        border: 2px dashed black;
-        width: 40vw;
-        text-align: center;
-        margin-left: 1vw;
-        border-radius: 2%;
-        color: black;
-    }
-    
-}

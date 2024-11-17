@@ -15,17 +15,11 @@ body {
 
 #navigation li {
   list-style: none;
-  display: inline-block;
+  display: inline;
 }
 
-#navigation #navNames {
-  display: none;
-}
-
-@media (width >= 40rem) {
-  #navigation #navNames {
-    display: inline;
-  }
+#navigation button {
+  min-width: 10vw;
 }
 
 #navigation a {
@@ -39,6 +33,16 @@ body {
 #navigation button:hover {
   color: #fff;
   background-color: purple;
+}
+
+#navNames {
+  display: none;
+}
+
+@media (width >= 40rem) {
+  #navNames {
+    display: inline;
+  }
 }
 
 table caption {
