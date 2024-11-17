@@ -25,7 +25,7 @@
 60C:\Users\Admin\moment1Ramverk\node_modules\dotenv-expand\lib133758082012632237 1
 87C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\lib\utils\computeOffsets.d.ts133758082019818485 0
 67C:\Users\Admin\moment1Ramverk\node_modules\abortcontroller-polyfill133758082013797430 1
-34C:\Users\Admin\moment1Ramverk\dist133763515849522496 1
+34C:\Users\Admin\moment1Ramverk\dist133763517115665967 1
 60C:\Users\Admin\moment1Ramverk\node_modules\@msgpackr-extract133759095857073958 1
 86C:\Users\Admin\moment1Ramverk\node_modules\caniuse-lite\data\features\link-icon-svg.js133758082025194422 0
 64C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\scss\vendor133758082022408938 1
@@ -118,7 +118,7 @@
 84C:\Users\Admin\moment1Ramverk\node_modules\@popperjs\core\dist\esm\modifiers\flip.js133758082021958844 0
 68C:\Users\Admin\moment1Ramverk\node_modules\bootstrap\js\src\toast.js133758082017498074 0
 53C:\Users\Admin\moment1Ramverk\node_modules\color-name133758082012112143 1
-50C:\Users\Admin\moment1Ramverk\src\publication.html133763515849122417 0
+50C:\Users\Admin\moment1Ramverk\src\publication.html133763517114595776 0
 71C:\Users\Admin\moment1Ramverk\node_modules\@parcel\transformer-sass\src133758082011997118 1
 60C:\Users\Admin\moment1Ramverk\node_modules\lmdb\node_modules133758081998339746 1
 63C:\Users\Admin\moment1Ramverk\node_modules\@swc\core\Visitor.js133758082011947122 0
@@ -3540,4 +3540,4 @@
 56C:\Users\Admin\moment1Ramverk\dist\tailwind.dcce686a.css133763503432815759 0
 73C:\Users\Admin\moment1Ramverk\bilder\caleb-white-NLE9RCsxX3c-unsplash.jpg133763503432395671 0
 74C:\Users\Admin\moment1Ramverk\bilder\pankaj-patel-u2Ru4QBXA5Q-unsplash.jpg133763503432430678 0
-51C:\Users\Admin\moment1Ramverk\dist\publication.html133763515849507497 0
+51C:\Users\Admin\moment1Ramverk\dist\publication.html133763517115650965 0
